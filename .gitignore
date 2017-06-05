@@ -1,0 +1,9 @@
+build/*
+dist/*
+nbproject/private/*
+/ClienteCRUDJSF-ejb/build/
+/ClienteCRUDJSF-war/build/
+/ClienteCRUDJSF-ejb/dist/
+/ClienteCRUDJSF-war/dist/
+/ClienteCRUDJSF-war/nbproject/private/
+/ClienteCRUDJSF-ejb/nbproject/private/
